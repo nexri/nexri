@@ -1,0 +1,3 @@
+tensorflow>=2.19.0
+nexri>=0.1.0
+numpy>=1.19.2
